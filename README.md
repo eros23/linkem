@@ -32,3 +32,7 @@ https://youtu.be/R3QDcI6RMgY
 Una parte del Dump dei dati può essere trovato qui:
 
 https://github.com/eros23/linkem/blob/master/passwd_linkem.txt
+
+## Come hackerare le antenne linkem con la password di default
+
+Curioso? Vai [linkem wifi hacked](https://github.com/eros23/linkem-wifi-hacked)
